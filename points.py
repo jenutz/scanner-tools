@@ -10,7 +10,7 @@ straightened image window or proceed to the next image.
 Clicking the window close button might proceed to the next image without confirmation.
 
 Usage:
-    ./straighten.py image.jpg
+    ./points.py image.jpg
 """
 
 import cv2
